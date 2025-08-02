@@ -1,2 +1,2 @@
 # unfoldgGames_codeExamples
-this is a code example that shows the ui implementation of  the "Resource Management Game (Mobile)" project from the portfolio
+This repository contains sample UI code demonstrating the UI implementation from the Resource Management Game (Mobile) project in my portfolio.
